@@ -1,7 +1,3 @@
-#### Udacity Artificial Intelligence Nanodegree
-### Term 2: Capstone Project
-# Machine Translation with RNNs
-
 ##### &nbsp;
 
 <img src="images/translation.gif" width="100%" align="top-left" alt="" title="RNN" />
