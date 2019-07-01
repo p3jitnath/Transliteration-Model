@@ -12,7 +12,7 @@ We have developed a transliteration model which transliterates বাংলা t
 
 - `data/` - This folder contains the dataset on which the neural network was trained.
 
-## Additional Feature
+## Additional Feature(s)
 - `machine_translation.ipynb` - This Jupyter Notebook contains 5 models which developed a translation model which could convert English to French. The hybrid model is the one on which we based our final transliteration model. [Credit : Tommy Tracey]
 
 ## Note
