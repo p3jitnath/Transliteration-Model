@@ -19,7 +19,7 @@ We have developed a transliteration model which transliterates বাংলা t
 - Version of TensorFlow used : `1.11.0`
 - Version of Keras used : `2.2.4`
 
-*** Please do not remove any file while tampering with this repo as removal may cause unwanted errors, which may be difficult to debug ***
+**Please do not remove any file while tampering with this repo as removal may cause unwanted errors, which may be difficult to debug**
 
 ### Usage :
 Correct Usage of API : `python3 use_model.py -word <bengali_word>`
