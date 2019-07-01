@@ -1,7 +1,7 @@
 # RNN Xelpmoc Intern
 We have developed a transliteration model which transliterates বাংলা to English, with an accuracy of approximately `96.5 %`.
 
-## Important Files Directory
+## Important Files
 - `transliteration_model.ipynb` - This the Jupyter notebook file which was used to train the transliteration model. The neural network was trained on a Google Cloud Platform instance having 2vCPUs and a single NVIDIA Tesla T4 GPU, taking around 5 minutes for a single epoch.   
 
 - `transliteration_model_usage.ipynb` - This the Jupyter notebook file which was used to develop the API `use_model.py`. It includes all the necessary preprocessing required to feed the বাংলা word to the API, so as to get the necessary output.
