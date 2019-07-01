@@ -23,3 +23,4 @@ We have developed a transliteration model which transliterates বাংলা t
 
 ### Usage :
 Correct Usage of API : `python3 use_model.py -word <bengali_word>`
+For example : `python3 use_model.py -word সরকার`
