@@ -19,8 +19,6 @@ We have developed a transliteration model @ `Xelpmoc` which transliterates ব�
 - Version of TensorFlow used : `1.11.0`
 - Version of Keras used : `2.2.4`
 
-**Please do not remove any file while tampering with this repo.**
-
 ### Usage :
 Correct Usage of API : `python3 use_model.py -word <bengali_word>`  
 For example : `python3 use_model.py -word সরকার`
